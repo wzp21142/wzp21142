@@ -1,4 +1,4 @@
-![wzp21142 的统计](https://github-readme-stats.vercel.app/api?username=wzp21142&count_private=true&show_icons=true&theme=radical)
+![wzp21142 的统计](https://github-readme-stats.vercel.app/api?username=wzp21142&count_private=true&show_icons=true)
 ![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=wzp21142&layout=compact)
 
 <!--
